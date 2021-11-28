@@ -1,3 +1,7 @@
+---
+title: Nick Vazquez Personal Portfolio
+---
+
 ## Nick Vazquez
 
 Hi there! I'm Nick Vazquez - a student studying [Software Engineering](https://se.iastate.edu/) at [Iowa State University](https://iastate.edu).
